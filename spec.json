@@ -3,12 +3,17 @@
     "name": "flipcart-clone",
     "repo_url": "https://github.com/Ameya1605/flipcart-clone"
   },
-  "structure": "monorepo",
-  "apps": [
-    "api",
-    "web"
+  "features": [
+    {
+      "name": "dashboard with interactive ui",
+      "status": "planned"
+    }
   ],
-  "database": [],
-  "endpoints": [],
-  "features": []
+  "database": [
+    {
+      "table": "catalogue",
+      "fields": []
+    }
+  ],
+  "endpoints": []
 }
