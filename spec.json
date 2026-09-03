@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "flipcart-clone",
+    "repo_url": "https://github.com/Ameya1605/flipcart-clone"
+  },
+  "structure": "monorepo",
+  "apps": [
+    "api",
+    "web"
+  ],
+  "database": [],
+  "endpoints": [],
+  "features": []
+}
