@@ -1,1 +1,3 @@
 # flipcart-clone
+
+Built with SpecOS - AI Architecture First.
